@@ -1,0 +1,42 @@
+body {
+  font-family: sans-serif;
+  margin: 0 auto;
+  max-width: 1024px;
+}
+
+header, section { 
+  padding: 0px 20px;
+}
+
+a{
+  bottom: 10px; 
+  color: red;
+  font-weight: bold;
+  left:15px;
+  position:fixed;
+  text-decoration: none;
+}
+
+.floating {
+  background-color: lightgray;
+  border: 1px solid red;
+  border-radius: 10px;
+  padding: 8px 15px;
+}
+
+.fixed{
+  color: blue;
+  position: absolute;
+  left: 10px;
+  top: 10px;
+}
+footer{
+  display: block; 
+  border: 1px solid gray;
+  margin-left: -0px;
+  position:relative;
+}
+footer p{
+  text-align:center;
+  margin-top: 150px;
+}
