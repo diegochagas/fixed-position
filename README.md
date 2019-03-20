@@ -1,6 +1,6 @@
 # Fixed position
 
-Fix element in web page according to scroll position with javascript
+Functions to fix an element in a web page when this page is scrolled to the footer.
 
 ## Technologies used
 
